@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Learning Layouts</string>
+    <string name="toast">Toast</string>
+    <string name="toggle">Toggle</string>
+    <string name="dubble">Double</string>
+    <string name="count">Count</string>
+    <string name="reset">Reset</string>
+</resources>
